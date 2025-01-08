@@ -1,0 +1,128 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* FIRST NAVBAR STYLING */
+.Navbar1 {
+    border-radius: 30px;
+    background-color: rgb(0, 0, 0);
+    padding: 2px;
+}
+
+.Navbar1 li {
+    display: inline;
+    color: white;
+    padding: 2px 4px;
+    
+}
+
+.Navbar1 a {
+    text-decoration: none;
+    color: white;
+}
+
+.Navbar1 p {
+    display: inline;
+    color: white;
+    padding-left: 35%;
+}
+
+.Navbar1 h1 {
+    margin: auto 0px;
+    float: left;
+    display: inline;
+    color: white;
+}
+
+.Navbar1 Button {
+    background-color: rgb(68, 133, 177);
+    width: auto;
+    border-style: none;
+    border-radius: 30px;
+    float: right;
+    margin-right: 1%;
+    padding: 0px 15px 0 15px;
+    color: white;
+}
+
+/* SECONG NAVBAR STYLING */
+
+.Navbar2 {
+    border-radius: 30px;
+    background-color: rgb(0, 0, 0);
+    padding: 2px;
+}
+
+.Navbar2 li {
+    display: inline;
+    color: white;
+    padding: 2px 4px; 
+    margin: 0 2%;
+}
+
+.Navbar2 Button {
+    background-color: rgb(68, 133, 177);
+    width: auto;
+    border-style: none;
+    border-radius: 30px;
+    margin-right: 1%;
+    padding: 0px 15px 0 15px;
+    color: white;
+}
+
+.Navbar2 h1 {
+    margin-top: auto;
+    margin-bottom: auto;
+    float: right;
+    display: inline;
+    color: white;
+    padding-right: 1%;
+}
+
+.Navbar2 a {
+    text-decoration: none;
+    color: white;
+}
+
+/* THIRD NAVBAR STYLING */
+
+.Navbar3 {
+    border-radius: 30px;
+    background-color: rgb(0, 0, 0);
+    padding: 2px;
+}
+
+.Navbar3 li {
+    display: inline;
+    color: white;
+    padding: 0 1%;
+}
+
+.Navbar3 a {
+    text-decoration: none;
+    color: white;
+}
+
+.Services {
+    margin-left: 65%;
+}
+
+.Navbar3 h1 {
+    margin-top: auto;
+    margin-bottom: auto;
+    float: left;
+    display: inline;
+    color: white;
+    padding-right: 1%;
+}
+
+.Navbar3 Button {
+    background-color: rgb(68, 133, 177);
+    width: auto;
+    border-style: none;
+    border-radius: 30px;
+    margin-right: 1%;
+    padding: 0px 15px 0 15px;
+    color: white;
+}
